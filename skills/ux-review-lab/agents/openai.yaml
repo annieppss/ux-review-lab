@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Review Lab"
+  short_description: "Figma와 프로토타입을 선택형 UX 리뷰로 점검"
+  default_prompt: "Use $ux-review-lab to review this interface with the requested modules."
